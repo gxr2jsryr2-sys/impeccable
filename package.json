@@ -74,18 +74,18 @@
     "puppeteer": "^24.42.0"
   },
   "devDependencies": {
-    "astro": "^6.2.1",
-    "@paper-design/shaders": "^0.0.76",
     "@ai-sdk/anthropic": "^3.0.71",
     "@ai-sdk/openai": "^3.0.53",
     "@anthropic-ai/claude-agent-sdk": "^0.2.119",
     "@anthropic-ai/sdk": "^0.91.1",
     "@google/genai": "^1.50.1",
+    "@paper-design/shaders": "^0.0.76",
     "ai": "^6.0.168",
     "archiver": "^7.0.1",
+    "astro": "^6.2.1",
     "modern-screenshot": "^4.7.0",
     "motion": "^12.38.0",
-    "playwright": "^1.59.1",
+    "playwright": "^1.60.0",
     "wrangler": "^4.85.0",
     "zod": "^4.3.6"
   }
